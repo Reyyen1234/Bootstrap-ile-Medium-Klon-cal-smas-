@@ -1,0 +1,22 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.bg-yellow{
+    background-color:#ffc017 ;
+}
+.border-dark1{
+    border-bottom: 1px solid rgba(41,41, 41, 1);
+}
+ul{
+    list-style: none;
+}
+.aside-button > li{
+    margin-bottom: 10px;
+}
+.list-inline-item .btn{
+    background-color: #F2F2F2;
+    padding: 10px;
+}
+a{
+  text-decoration: none;
+}
